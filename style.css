@@ -1,0 +1,14 @@
+#video
+ {
+    width:100%;
+    height:500px;
+    border:none;
+ }
+ .info1 img
+ {
+   width:100%;
+ }
+ .info1
+{
+    border: 1px solid #eee;
+}
